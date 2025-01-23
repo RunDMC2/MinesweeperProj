@@ -1,0 +1,14 @@
+﻿  Board.cpp
+C:\Users\dylan\OneDrive\Desktop\Minesweeper\Project_Minesweeper\MinesweeperProject\Board.cpp(110,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\OneDrive\Desktop\Minesweeper\Project_Minesweeper\MinesweeperProject\Board.cpp(122,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\OneDrive\Desktop\Minesweeper\Project_Minesweeper\MinesweeperProject\Board.cpp(157,22): warning C4018: '<': signed/unsigned mismatch
+  MinesweeperProject.cpp
+  Tile.cpp
+C:\Users\dylan\OneDrive\Desktop\Minesweeper\Project_Minesweeper\MinesweeperProject\Tile.cpp(120,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\OneDrive\Desktop\Minesweeper\Project_Minesweeper\MinesweeperProject\Tile.cpp(142,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dylan\OneDrive\Desktop\Minesweeper\Project_Minesweeper\MinesweeperProject\Tile.cpp(186,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 642 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MinesweeperProject.vcxproj -> C:\Users\dylan\OneDrive\Desktop\Minesweeper\Project_Minesweeper\MinesweeperProject\Release\MinesweeperProject.exe
